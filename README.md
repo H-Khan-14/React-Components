@@ -1,3 +1,9 @@
+# React Components
+
+React Components is a React based web application that creates cards that have an avatar, an author, a comment as well as the option to accept/reject similar to a blog. The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js, API's, Ajax Requests and ES6.
+
+[Live Demo](https://h-khan-14.github.io/React-Components/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
